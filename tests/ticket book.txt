@@ -1,4 +1,6 @@
 scenario 1 :  your ticket was booked
  scenario 2 :  you are waiting list 
-  scenario 3 :  the train will be cancelled
+  scenario 3 :  the train will be cancelled 
+  scenario 4 : next day you will book the ticket 
+  
   
