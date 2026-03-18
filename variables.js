@@ -1,7 +1,7 @@
-//var name="vijay" // declare
-//var name="varun" //redeclare
-//name="sabari" //update
-//console.log(name) //print statement
+var name="vijay" // declare
+var name="velz" //redeclare
+name="kumaran" //update
+console.log(name) //print statement
 
 
 
