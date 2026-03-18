@@ -1,6 +1,6 @@
 //var name="vijay" // declare
 //var name="varun" //redeclare
-//name="kumaran" //update
+//name="sabari" //update
 //console.log(name) //print statement
 
 
